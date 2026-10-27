@@ -1,6 +1,7 @@
 ---
 name: elicit
 description: Conduct a good interview or elicitation — pull accurate information, requirements, a decision, or tacit knowledge out of a person by presenting concrete options and a strawman to react to (fork-based, strawman-first), asking about past behavior rather than hypotheticals, and avoiding leading questions. Use when you need to interview the user, gather requirements, elicit a preference or a decision, run a discovery conversation, ask which of several options they want, or question the user well on behalf of another skill.
+license: MIT
 ---
 
 # elicit
